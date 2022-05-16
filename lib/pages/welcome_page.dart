@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_cubit/misc/colors.dart';
 import 'package:flutter_cubit/widgets/app_large_text.dart';
 import 'package:flutter_cubit/widgets/app_text.dart';
+import 'package:flutter_cubit/widgets/button.dart';
 
 class WelcomePage extends StatefulWidget {
   const WelcomePage({ Key? key }) : super(key: key);
